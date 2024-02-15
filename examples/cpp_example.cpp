@@ -37,8 +37,6 @@
 #include "estimators/solver_p3p.h"
 #include "estimators/solver_dls_pnp.h"
 
-#include "estimators/solver_essential_matrix_one_focal_four_point.h"
-
 #include <ctime>
 #include <sys/types.h>
 #include <sys/stat.h>
